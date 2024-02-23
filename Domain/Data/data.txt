@@ -1,0 +1,9 @@
+Pink,L,25,5,https://hawkbull.de/wp-content/uploads/2022/04/german20ww220trench20coat20real_1.jpg.webp
+Dark Brown,M,19,8,https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F72%2Fa1%2F72a1c1433674f90504b955fca3ae4dc2399fadf1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D
+Light Blue,S,29,3,https://hawkbull.de/wp-content/uploads/2022/04/german20ww220trench20coat20real_1.jpg.webp
+Purple,S,34,11,https://lp.monki.com/app002prod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F05%2F77%2F0577f02ec6e7adc96a0a92331efc4eae927da509.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D%2Ctarget%5Bhm.com%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D
+Brown,XS,14,6,https://n.nordstrommedia.com/id/sr3/ecac49b7-3b91-4c05-a4ec-544d7d1da3e6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196
+Orange,S,49,5,https://www.net-a-porter.com/variants/images/1647597288592595/in/w920_q60.jpg
+Yellow,L,19,3,https://lp.monki.com/app002prod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F05%2F77%2F0577f02ec6e7adc96a0a92331efc4eae927da509.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D%2Ctarget%5Bhm.com%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D
+Black,M,27,5,https://n.nordstrommedia.com/id/sr3/ecac49b7-3b91-4c05-a4ec-544d7d1da3e6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196
+test,XDD,1000,5,sadafda
